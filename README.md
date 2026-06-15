@@ -42,7 +42,6 @@ Automated research paper discovery and email digest platform.
 
 LayerToolsAgentic AILangGraph · Ollama · ChromaDB · RAG · Multi-Agent OrchestrationML / DataXGBoost · Scikit-learn · NumPy · Pandas · MatplotlibVoice Pipelinefaster-whisper · Piper TTS · KokoroBackendFastAPI · Python · SQLAlchemy · Alembic · Pydantic · FlaskFrontendNext.js 15 · React · Tailwind CSS · Jinja2DatabasesChromaDB · SQLite · PostgreSQLDeployVercel · Railway · Git
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajyavardhan11&layout=compact&theme=tokyonight)
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
